@@ -1,6 +1,6 @@
 # Terraform
 
-Minimal docker image that customises the base `hashicorp/terraform` for infrastructure builds for AWS
+Docker image with Terraform + awsci for infrastructure builds for AWS.
 
 ## Registry
 
