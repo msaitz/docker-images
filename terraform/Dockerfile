@@ -1,4 +1,4 @@
 FROM hashicorp/terraform:1.0.2
 
-RUN apk --update --no-cache add py-pip
+RUN apk --update --no-cache add py-pip jq
 RUN pip install awscliv2
