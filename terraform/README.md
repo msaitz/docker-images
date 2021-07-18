@@ -4,4 +4,4 @@ Minimal docker image that customises the base `hashicorp/terraform` for infrastr
 
 ## Registry
 
-This docker image is publised to a private Github container registry at `ghcr.io/msaitz/terraform:tag`
+This docker image is publised to a public Github container registry at `ghcr.io/msaitz/terraform:tag`

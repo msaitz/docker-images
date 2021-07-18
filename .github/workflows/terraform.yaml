@@ -3,7 +3,7 @@ name: Push terraform image
 on:   
   push:
     branches:
-      - add-ci
+      - master
 
 env:
   REGISTRY: "ghcr.io/msaitz"
